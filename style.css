@@ -1,0 +1,134 @@
+.none {
+    text-align: center;
+    margin: 25px;
+    border: none;
+    color: rgb(55, 229, 20);
+}
+
+
+
+.dotted {
+    border: 6px dotted  green ;
+    padding: 6px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+.dot {
+    font-size: x-large;
+    font-weight: bolder;
+    color: brown;
+}
+
+
+.dashed {
+    border: 8px dashed;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+
+}
+
+
+.dash {
+    font-size: x-large;
+    font-weight: bolder;
+    color: blanchedalmond;
+
+}
+
+
+.solid {
+    border: 9px solid;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+
+.sol {
+    font-size: x-large;
+    font-weight: bolder;
+    color: blue;
+
+}
+
+
+.double {
+    border: 6px double;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+
+.doub {
+    font-size: x-large;
+    font-weight: bolder;
+    color: greenyellow;
+
+}
+
+
+.groove {
+    border: 6px groove cyan;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+
+.gro {
+    font-size: x-large;
+    font-weight: bolder;
+    color: goldenrod;
+
+}
+
+
+.ridge {
+    border: 6px ridge yellow;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+
+.rid {
+    font-size: x-large;
+    font-weight: bolder;
+    color: bisque;
+
+}
+
+
+
+.inset {
+    border: 6px inset palevioletred;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+.in {
+    font-size: x-large;
+    font-weight: bolder;
+    color: cornsilk;
+
+}
+
+
+.outset {
+    border: 6px outset silver;
+    padding: 6px;
+    text-align: center;
+    margin: 24px;
+}
+
+.out {
+    font-size: x-large;
+    font-weight: bolder;
+    color: burlywood;
+
+}
